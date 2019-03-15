@@ -1,0 +1,65 @@
+.body{
+	border: 10px solid white;
+	background-color: white;
+	
+	
+}
+body{
+	background-image: url("images/th18CSVXZD.jpg");
+	margin-left: 10%;
+	margin-right: 10%;
+	background-size: 100%;
+}
+.title{
+	border:5px solid white;
+height: 100px;
+background-color:#A8F0F0; 
+}
+#theme{
+	border: 4px solid #C2E9E9;
+	background-color:#E8FBFB;
+	margin-top: 10px;
+	padding-top:5px;
+	height:250px;
+
+}
+.title1{
+size: 14pt;
+	height:40px;
+	margin-top:50px;
+
+}
+.date{
+	border-bottom:2px dashed #C2E9E9;
+}
+.title h1{
+	float: right;
+	
+}
+.title1 h2{
+	float: right;
+}
+img{
+	float:right;
+
+}
+p{
+margin:10px;
+}
+.friend{
+	border:5px solid #009097;
+	background-color: #99E0E0;
+	height:150px;
+	padding: 10px;
+	margin:10px;
+	width:250px;
+}
+li{
+	margin-left:10px;
+}
+
+
+.block2{
+	display:inline-flex;
+
+}
